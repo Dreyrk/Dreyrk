@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Drizzy-tales](https://drizzy-tales.vercel.app/)
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **Next/JS**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-dreyrk.vercel.app/](https://portfolio-dreyrk.vercel.app/)
 
