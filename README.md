@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next/JS** & **GraphQL**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-dreyrk.vercel.app/](https://portfolio-dreyrk.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-dreyrk.vercel.app/](https://dreyrk-portfolio.vercel.app/)
 
 - 💬 Ask me about **React/js, nodeJS, MongoDB, JavaScript, TypeScript, CSS**
 
