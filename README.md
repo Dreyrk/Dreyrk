@@ -20,5 +20,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dreyrk&theme=dark" alt="dreyrk" /></p>
 
-<a href="https://app.daily.dev/dreyrk"><img src="https://api.daily.dev/devcards/v2/aD9gQDbTDsLdJibbIn2aZ.png?type=default&r=ean" width="356" alt="Lucas Rondepierre's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/dreyrk"><img src="https://api.daily.dev/devcards/v2/aD9gQDbTDsLdJibbIn2aZ.png?type=default&r=ean" width="356" alt="Lucas Rondepierre's Dev Card"/></a> -->
 <a href="https://app.daily.dev/dreyrk"><img src="https://api.daily.dev/devcards/df5a7ecd09c64f2181089be91d4675ce.png?r=rdt" width="400" alt="Lucas Rondepierre's Dev Card"/></a>
