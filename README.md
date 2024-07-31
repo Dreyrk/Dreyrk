@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-dreyrk.vercel.app/](https://dreyrk-portfolio.vercel.app/)
 
-- 💬 Ask me about **React/js, nodeJS, MongoDB, JavaScript, TypeScript, CSS**
+- 💬 Ask me about **React/js, nodeJS, MongoDB, SQL, JavaScript, TypeScript, CSS**
 
 - 📫 How to reach me **lucas.rondepierre123@gmail.com**
 
